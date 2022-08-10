@@ -8,7 +8,7 @@ import NavBar from "../components/navBar";
 export default function MyApp() {
   return (
     <Provider store={store}>
-      <NavBar />
+      {/* <NavBar /> */}
       <Form />
     </Provider>
   );
