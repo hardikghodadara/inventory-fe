@@ -146,7 +146,7 @@ export default function AddItem() {
   };
 
   const submit = () => {
-    // if any of one inputField(key) is empty then form will not submit,update,save
+    // if any of one inputField(key) is empty then form will not submit,update andsave
 
     // {  key = Object.keys(obj)                  //meaning of keys(obj) is "keys of obj"
     //        if(key.some((key)=>{
